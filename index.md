@@ -1,2 +1,2 @@
-## Subdomain Takeover PoC ErNans
+## Domain Takeover PoC ErNans
 
